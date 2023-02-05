@@ -1,9 +1,3 @@
-# Flutter Qiblah
-
-[![pub package](https://img.shields.io/pub/v/flutter_qiblah.svg)](https://pub.dev/packages/flutter_qiblah) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-
-
-
 ## Getting Started
 
 To start using this package, add `flutter_qiblah` dependency to your `pubspec.yaml`
